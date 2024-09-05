@@ -1,5 +1,8 @@
 # 👨‍💻 **Mohomad Ashfan**  | *Full Stack Developer* 🚀
 
+🚀 **About Me**:  
+I'm a dedicated full stack software developer with a strong background in building enterprise-level applications. I enjoy working on challenging projects that allow me to continuously learn and grow in my field.
+
 🌍 **Born in**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="25"/> Pearl of the Indian Ocean  
 🏠 **Living in**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait Flag" width="25"/> Land of Oil
 
@@ -36,21 +39,14 @@
 
 ---
 
-### 📊 **GitHub Stats**
-![Mohomad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical)
-
-### 🔥 **GitHub Streak Stats**
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohomadashfan&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-### 📈 **Contribution Graph**
-[![Ashfan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohomadashfan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 **GitHub Stats & Streak**
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical" alt="Mohomad's GitHub stats" height="150">
+  <img src="https://streak-stats.demolab.com?user=mohomadashfan&theme=tokyonight" alt="GitHub Streak Stats" height="150">
+</div>
 
 ---
 
-🚀 **About Me**:  
-I'm a dedicated full stack software developer with a strong background in building enterprise-level applications. I enjoy working on challenging projects that allow me to continuously learn and grow in my field.
+### 💡 **Random Dev Quote**
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-📫 **Feel free to reach out** for collaborations or just to say hi!
