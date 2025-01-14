@@ -1,61 +1,45 @@
-# 👨‍💻 **Mohomad Ashfan**  
-### *Full Stack Developer* 🚀
+<h2 align="left">Hi 👋! My name is Mohomad Ashfan and I'm a Full Stack Developer, from Sri Lanka 🇱🇰</h2>
 
----
-## 🌍 **About Me**  
-I'm a passionate Full Stack Developer with extensive experience in building scalable and efficient applications. I focus on creating high-quality solutions for enterprise-level applications. I'm always keen to explore new technologies and embrace challenges in my development journey.
+###
 
-- **Born in**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="20"/> **Sri Lanka**  
-- **Living in**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait Flag" width="20"/> **Kuwait**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohomadashfan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 💼 **Current Role**  
-**Software Developer** at **Ministry of Water and Electricity, Kuwait**  
-- Specializing in designing, developing, and maintaining applications to improve public services through innovative software solutions.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🔧 **Technical Expertise**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="30" alt="sqlserver logo"  />
+</div>
 
-**Languages & Frameworks**  
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) **C#**  
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) **TypeScript**  
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) **Angular**  
-- ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet&logoColor=white) **.NET**  
-- ![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white) **.NET Core**  
+###
 
-**Databases**  
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) **SQL Server**  
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-**Tools & Platforms**  
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Git**  
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) **Visual Studio**
+###
 
----
+<br clear="both">
 
-## 📊 **GitHub Stats**
+<img src="https://raw.githubusercontent.com/mohomadashfan/mohomadashfan/output/snake.svg" alt="Snake animation" />
 
-![Mohomad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohomadashfan&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 **Achievements & Contributions**  
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohomadashfan&row=1&column=6&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💬 **Random Dev Quote**  
-> *"The best way to predict the future is to invent it."* – Alan Kay
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 📬 **Let's Connect!**  
-- **[LinkedIn](https://www.linkedin.com/in/mohomadashfan/)**  
-- **[GitHub](https://github.com/mohomadashfan)**  
+###
