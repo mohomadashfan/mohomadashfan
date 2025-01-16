@@ -49,6 +49,3 @@ I'm a dedicated full stack software developer with a strong background in buildi
 
 ### 💡 **Random Dev Quote**
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-Make look more professional way
