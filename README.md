@@ -17,6 +17,16 @@
 
 ---
 
+### 🎯 My Top Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</div>
+
+---
+
 ### 💻 My Tech Arsenal
 
 <table align="center" style="border-collapse: collapse;">
@@ -65,10 +75,15 @@
 
 ---
 
-### 💡 Innovation Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 49%;">
+    <h4 align="center">💡 Innovation Quote</h4>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+  </div>
+  <div style="width: 49%;">
+    <h4 align="center">😂 Code Humor</h4>
+    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  </div>
 </div>
 
 ---
@@ -78,24 +93,6 @@
 <div align="center">
   <!-- Activity graph might not show much for private repos -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohomadashfan&bg_color=1F2937&color=ffffff&line=FF5733&point=FF5733&area=true&hide_border=true" alt="Activity Graph" width="100%">
-</div>
-
----
-
-### 🎯 My Top Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</div>
-
----
-
-### 😂 Code Humor
-
-<div align="center">
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
 ---
