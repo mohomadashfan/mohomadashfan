@@ -1,6 +1,6 @@
 # Mohomad Ashfan
 
-## Full Stack Developer | C#, .NET, Angular | Innovator Extraordinaire 🚀
+## Full Stack Developer | C#, Angular, TypeScript | Innovator Extraordinaire 🚀
 
 <div align="center">
   <img width="200" src="URL_TO_YOUR_PREFERRED_IMAGE" alt="Mohomad Ashfan - The Code Visionary">
@@ -51,6 +51,7 @@
 ### 📊 My GitHub Metrics
 
 <div align="center">
+  <!-- Since you have private repos, these stats won't show much unless you set up a custom solution -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
   <img src="https://streak-stats.demolab.com?user=mohomadashfan&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
 </div>
@@ -76,6 +77,7 @@
 ### 🔥 Latest Innovations
 
 <div align="center">
+  <!-- Activity graph might not show much for private repos -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohomadashfan&bg_color=1F2937&color=ffffff&line=FF5733&point=FF5733&area=true&hide_border=true" alt="Activity Graph" width="100%">
 </div>
 
@@ -100,12 +102,15 @@
 
 ---
 
-### 🎯 Top Languages Used
+### 🎯 My Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohomadashfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </div>
 
+---
 
 > Join the journey of transforming ideas into reality. Let's innovate together!
 
