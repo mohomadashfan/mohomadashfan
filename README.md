@@ -1,7 +1,7 @@
-# 👨‍💻 **Mohomad Ashfan**  | *Full Stack Developer* 🚀
+# 👨‍💻 **Mohomad Ashfan** | *Full Stack Developer* 🚀
 
 🚀 **About Me**:  
-I'm a dedicated full stack software developer with a strong background in building enterprise-level applications. I enjoy working on challenging projects that allow me to continuously learn and grow in my field.
+I am a dedicated full stack software developer with extensive experience in crafting enterprise-level applications. My passion lies in tackling complex projects that foster continuous learning and professional growth.
 
 🌍 **Born in**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="25"/> Pearl of the Indian Ocean  
 🏠 **Living in**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait Flag" width="25"/> Land of Oil
@@ -9,7 +9,7 @@ I'm a dedicated full stack software developer with a strong background in buildi
 💼 **Current Role**: Software Developer at the Ministry of Water and Electricity, Kuwait  
 💻 **Tech Stack**:
 - **Languages & Frameworks**: C#, .NET, .NET Core, Angular
-- **Full Stack Developer** with a passion for building efficient and scalable applications.
+- **Full Stack Development** focusing on creating scalable, efficient solutions.
 
 ---
 
@@ -49,3 +49,7 @@ I'm a dedicated full stack software developer with a strong background in buildi
 
 ### 💡 **Random Dev Quote**
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
