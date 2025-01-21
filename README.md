@@ -17,16 +17,6 @@
 
 ---
 
-### 🎯 My Top Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</div>
-
----
-
 ### 💻 My Tech Arsenal
 
 <table align="center" style="border-collapse: collapse;">
@@ -58,11 +48,20 @@
 
 ---
 
+### 🎯 My Top Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+</div>
+
+---
+
 ### 📊 My GitHub Metrics
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" style="margin-right: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" width="49%" style="margin-left: 5px;">
 </div>
 
 ---
