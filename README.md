@@ -1,55 +1,53 @@
-# 👨‍💻 **Mohomad Ashfan** | *Full Stack Developer* 🚀
+# Mohomad Ashfan
 
-🚀 **About Me**:  
-I am a dedicated full stack software developer with extensive experience in crafting enterprise-level applications. My passion lies in tackling complex projects that foster continuous learning and professional growth.
+### Full Stack Developer | C#, .NET, Angular
 
-🌍 **Born in**: <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="25"/> Pearl of the Indian Ocean  
-🏠 **Living in**: <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait Flag" width="25"/> Land of Oil
+<img align="right" width="200" src="URL_TO_YOUR_PREFERRED_IMAGE" alt="Mohomad Ashfan">
 
-💼 **Current Role**: Software Developer at the Ministry of Water and Electricity, Kuwait  
-💻 **Tech Stack**:
-- **Languages & Frameworks**: C#, .NET, .NET Core, Angular
-- **Full Stack Development** focusing on creating scalable, efficient solutions.
+**Greetings from the heart of the tech world!**  
+I’m Mohomad Ashfan, a passionate software craftsman with roots in the **Pearl of the Indian Ocean** <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg" alt="Sri Lanka Flag" width="20"/>, now thriving in the **Land of Oil** <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" alt="Kuwait Flag" width="20"/>.
 
----
+## 🚀 My Journey
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohomadashfan&row=1&column=6&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+- **Current Endeavor**: Software Developer at the Ministry of Water and Electricity, Kuwait
+- **Mission**: To architect scalable, high-performance applications that drive innovation
+- **Philosophy**: Embrace challenges, learn constantly, and grow exponentially
 
----
+## 💻 My Tech Arsenal
 
-### 🛠️ **Skills & Technologies**
+### Languages I Speak
+- <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> **C#**
+- <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"> **.NET**
+- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> **TypeScript**
 
-#### 💻 **Languages**:
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### Frameworks & Libraries in My Toolkit
+- <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"> **Angular**
+- <img src="https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core"> **.NET Core**
 
-#### 🖥️ **Frameworks & Libraries**:
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+### Database Champions
+- <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"> **SQL Server**
+- <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> **PostgreSQL**
 
-#### 💾 **Databases**:
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### My Go-To Tools
+- <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> **Git**
+- <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"> **Visual Studio**
 
-#### 🛠️ **Tools**:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+## 📊 My GitHub Footprint
 
----
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical&hide_border=true" alt="Mohomad's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=mohomadashfan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+</p>
 
-### 📊 **GitHub Stats & Streak**
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical" alt="Mohomad's GitHub stats" height="150">
-  <img src="https://streak-stats.demolab.com?user=mohomadashfan&theme=tokyonight" alt="GitHub Streak Stats" height="150">
-</div>
+## 🌟 Badges of Honor
 
----
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohomadashfan&row=1&column=6&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 💡 **Random Dev Quote**
+## 💡 Inspiration for Today
+
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+---
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+*Thank you for stopping by my GitHub profile! Dive into my repositories to see what I've been up to.*
