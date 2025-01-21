@@ -106,15 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohomadashfan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%">
 </div>
 
----
-
-### 🎮 Wakatime Stats
-
-<div align="center">
-  <img src="https://wakatime.com/share/@mohomadashfan/d34d34d3-34d3-4d34-d34d-34d34d34d34d.svg" alt="Wakatime Stats" width="100%">
-</div>
-
----
 
 > Join the journey of transforming ideas into reality. Let's innovate together!
 
