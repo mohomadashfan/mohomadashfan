@@ -53,7 +53,7 @@
 <div align="center">
   <!-- Since you have private repos, these stats won't show much unless you set up a custom solution -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohomadashfan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohomadashfan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
 ---
